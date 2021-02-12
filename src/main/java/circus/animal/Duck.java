@@ -13,7 +13,7 @@ public class Duck extends Bird {
 
     @Override
     public String toString() {
-        return "I'm" + name + ". I'm a Duck";
+        return "I'm " + name + ". I'm a Duck";
     }
 
     public void swim() {
